@@ -6,6 +6,11 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+h1{
+  position: absolute();
+  font-size: xx-large;
+
+}
 body {
   min-height: 100vh;
   display: flex;
@@ -21,11 +26,11 @@ body {
   border-radius: 25px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #6e93f7;
+  background: #4acb29;
   border-radius: 25px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #6e93f7;
+  background: #000304;
 }
 .container {
   display: flex;
